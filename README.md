@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Saksham
 
 
 - 🔭 I’m currently working on Machine Learning
@@ -7,12 +7,13 @@
 - 📫 How to reach me: Twitter
 
 🏡 [website][website] **|** 
+👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+📷 [instagram][instagram]  
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
-[website]: https://
-[twitter]: https://
-[instagram]: https://
-[linkedin]: https://
+
+[banner]: 
+[website]: https://sakshamjain.me/
+[twitter]: https://twitter.com/Jn_Saksham
+[instagram]: https://www.instagram.com/sakshamjn007/?hl=en
+[linkedin]: https://www.linkedin.com/in/saksham-jain-007/
