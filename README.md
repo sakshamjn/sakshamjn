@@ -7,7 +7,7 @@ I'm Saksham Jain
 # 👨🏻‍💻 [Saksham Jain](https://sakshamjain.me/) [@Jn_Saksham](https://www.linkedin.com/in/saksham-jain-007/)
 
 
-- 🔭 I’m currently working on Machine Learning, Docker
+- 🔭 I’m currently working on Yolov3 & v5
 - 🌱 I’m currently learning competitive coding.
 - ⚡  Available for Freelance projects/Full-time opportunities.
 - 👯 I’m looking to collaborate on Data Science and ML
