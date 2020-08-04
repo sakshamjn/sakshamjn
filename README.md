@@ -1,7 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Saksham Jain
-</p>
+<h2 align='center'> I'm Saksham Jain</h2>
+
 
 
 # 👨🏻‍💻 [Saksham Jain](https://sakshamjain.me/) [@Jn_Saksham](https://www.linkedin.com/in/saksham-jain-007/)
@@ -10,7 +9,7 @@ I'm Saksham Jain
 - 🔭 I’m currently working on Yolov3 & v5
 - 🌱 I’m currently learning competitive coding.
 - ⚡  Available for Freelance projects/Full-time opportunities.
-- 👯 I’m looking to collaborate on Data Science and ML
+- 👯 I’m looking to collaborate on Data Science and ML projects
 - 📫 How to reach me: Twitter
 
 🏡 [website][website] **|** 
