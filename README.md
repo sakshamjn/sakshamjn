@@ -6,11 +6,11 @@
 # 👨🏻‍💻 [Saksham Jain](https://sakshamjain.me/) [@Jn_Saksham](https://www.linkedin.com/in/saksham-jain-007/)
 
 
-- 🔭 I’m currently working on Yolov3 & v5
+- 🔭 I’m currently working on Yolo v3,5 and GPT-3.
 - 🌱 I’m currently learning competitive coding.
 - ⚡  Available for Freelance projects/Full-time opportunities.
 - 👯 I’m looking to collaborate on Data Science and ML projects
-- 📫 How to reach me: Twitter
+- 📫 How to reach me: Twitter/ Linkedin
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|**
