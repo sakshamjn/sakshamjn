@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning competitive coding.
 - ⚡  Available for Freelance projects/Full-time opportunities.
 - 👯 I’m looking to collaborate on Data Science and ML projects
-- 📫 How to reach me: Twitter/ LinkedIn
+- 📫 How to reach me: LinkedIn / Twitter
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|**
